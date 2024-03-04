@@ -5,6 +5,7 @@ the application has features such as making new meetings and inviting your frien
 it also has the feature to let you schedule a meeting and edit or delete your scheduled meetings using a simple and user friendly format.
 the user can search other users on the database and add them as friends.
 firebase sign out function is used to log the user out of his account.
+this application uses jitsi to begin the video meeting over the network.
 
 ## Getting Started
 
