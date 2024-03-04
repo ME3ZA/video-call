@@ -1,6 +1,10 @@
-# video_project
+# Video Call Application
 
-A new Flutter project.
+This application UI consists of a login screen using firebase to sign up or sign in with your google account.
+the application has features such as making new meetings and inviting your friends or co-workers using the meeting id.
+it also has the feature to let you schedule a meeting and edit or delete your scheduled meetings using a simple and user friendly format.
+the user can search other users on the database and add them as friends.
+firebase sign out function is used to log the user out of his account.
 
 ## Getting Started
 
